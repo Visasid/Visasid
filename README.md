@@ -1,20 +1,9 @@
 <div id="badges" align="center">
-  <a href="https://www.reddit.com/user/Viaasid">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@Viasid">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://telegram.me/mmaximviasid">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
   <br><img src="https://komarev.com/ghpvc/?username=visasid&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">Hi there<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: My Languages and Tools :
 <div>
   <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Java" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E" title="Java" alt="Java"/>&nbsp;
