@@ -13,9 +13,3 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="Java" alt="Java"/>&nbsp;
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Java" alt="Java"/>&nbsp
 </div>
-
----
-
-### :fire: My Stats : 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Visasid&theme=dark&background=000000)](https://git.io/streak-stats)
